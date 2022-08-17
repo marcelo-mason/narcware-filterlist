@@ -1,0 +1,3 @@
+||screening-worker.uniswap.workers.de^
+||aave-api-v2.aave.com^
+||api.trmlabs.com^
